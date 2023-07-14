@@ -1,4 +1,5 @@
 REACT TUTORIAL:
+This tutorial follows along with the video: https://youtu.be/SqcY0GlETPk
 This project uses React and Typescript to create a basic application for the purpose of learning React, which
 organizes the page into components for reusable and modular code. React creates a Javascript virtual DOM from a component tree, which is an in memory representation of the 
 component tree. When the state of the component changes, it changes it in the virtual DOM and then updates 
